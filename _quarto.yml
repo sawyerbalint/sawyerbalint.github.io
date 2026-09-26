@@ -6,8 +6,8 @@ project:
 
 website:
   title: "Sawyer Balint"
-  site-url: https://sawyerbalint.github.io
-  description: "Biogeochemist studying nitrogen cycling in coastal and inland waters."
+  site-url: https://sawyerbalint.com
+  description: "Coastal biogeochemist"
   favicon: images/favicon.svg
   page-navigation: false
   back-to-top-navigation: true
