@@ -1,0 +1,45 @@
+project:
+  type: website
+  pre-render: scripts/build-publications.ts
+  resources:
+    - files/
+
+website:
+  title: "Sawyer Balint"
+  site-url: https://sawyerbalint.github.io
+  description: "Biogeochemist studying nitrogen cycling in coastal and inland waters."
+  favicon: images/favicon.svg
+  page-navigation: false
+  back-to-top-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/sawyerbalint
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sawyerbalint
+        aria-label: LinkedIn
+  page-footer:
+    left: "© 2026 Sawyer Balint"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: theme/light.scss
+      dark: theme/dark.scss
+    css: theme/site.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      body-width: 860px

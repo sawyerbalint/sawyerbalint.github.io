@@ -1,0 +1,39 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,800&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+// Palette: deep-water ink, estuary teal, and a warm "sunset over the marsh" accent
+$ink:    #0b3a4a;
+$teal:   #0f7c80;
+$warm:   #d9622b;
+$paper:  #fbfaf7;
+
+$body-bg:    $paper;
+$body-color: #1d2b31;
+$primary:    $teal;
+$secondary:  #5b6b72;
+$link-color: $teal;
+$navbar-bg:  $ink;
+$navbar-fg:  #e8f1f2;
+$navbar-hl:  #f4a261;
+$footer-bg:  $paper;
+
+$font-family-sans-serif: "IBM Plex Sans", system-ui, sans-serif;
+$font-family-monospace:  "IBM Plex Mono", ui-monospace, monospace;
+$headings-font-family:   "Fraunces", Georgia, serif;
+$headings-font-weight:   600;
+$font-size-root: 17px;
+$line-height-base: 1.65;
+
+/*-- scss:rules --*/
+:root {
+  --sb-ink: #{$ink};
+  --sb-teal: #{$teal};
+  --sb-warm: #{$warm};
+  --sb-paper: #{$paper};
+  --sb-card: #ffffff;
+  --sb-rule: #e3e0d8;
+  --sb-muted: #5b6b72;
+  --sb-chip: #eef5f5;
+  --sb-hero-a: #0b3a4a;
+  --sb-hero-b: #0f5f6b;
+}

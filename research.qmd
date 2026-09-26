@@ -1,0 +1,62 @@
+---
+title: "Research"
+description: "How human activity shapes estuarine biogeochemistry"
+---
+
+I study past and present changes in estuarine biogeochemistry caused by human activity, and I develop analytical techniques that make estuarine research more accessible. My work spans temporal and spatial scales, from high-resolution sensors to sediment cores spanning centuries, and from regional analyses of Narragansett Bay to global syntheses of inland and coastal waters.
+
+::: {.themes}
+
+::: {.theme .has-photo}
+<div class="num">01</div>
+<div>
+### Historical nutrient reconstruction
+
+By combining stable isotopes, radiometric dating, and historical ecology, I use sediment cores to reconstruct how nutrient loading and ecosystem function in urbanized estuaries have changed since before industrialization.
+
+<div class="chips"><span class="chip">sediment cores</span><span class="chip">δ¹⁵N / δ¹³C</span><span class="chip">historical ecology</span></div>
+</div>
+<figure class="theme-photo" style="--shift: 14%"><img src="images/research_01.jpg" alt="Two researchers in life jackets lean over the side of a dock, lowering a sediment corer into shallow water." loading="lazy"></figure>
+:::
+
+::: {.theme .has-photo}
+<div class="num">02</div>
+<div>
+### Ecosystem management
+
+I pair precipitation-explicit nitrogen loading budgets with global climate models to assess how precipitation variability may impact ecosystem management, and use spectral and wavelet analysis of multi-decade monitoring data to interrogate the ecological impacts of management and climate change
+
+<div class="chips"><span class="chip">net ecosystem metabolism</span><span class="chip">wavelet decomposition</span><span class="chip">nutrient reductions</span><span class="chip">climate change</span></div>
+</div>
+<figure class="theme-photo"><img class="light-content" src="images/research_02.webp" alt="Abstract graphic of many overlapping waves of different frequencies in navy and teal." loading="lazy"><img class="dark-content" src="images/research_02-dark.webp" alt="Abstract graphic of many overlapping waves of different frequencies in navy and teal." loading="lazy"></figure>
+:::
+
+::: {.theme .has-photo}
+<div class="num">03</div>
+<div>
+### Nitrogen fixation and biogenic gases
+
+In collaboration with the [Aquatic Nitrogen Fixation Research Coordination Network](https://www.aquaticnfixation.com), I help synthesize nitrogen fixation rates across inland and coastal waters and estimate their temporal and spatial distribution. I also measure biogenic gas fluxes across the sediment-water interface and have collaborated with greenhouse gas measurements in salt marshes.
+
+<div class="chips"><span class="chip">N₂ fixation</span><span class="chip">methane</span><span class="chip">global synthesis</span></div>
+</div>
+<figure class="theme-photo" style="--shift: 14%"><img class="light-content" src="images/research_03.webp" alt="Global map of Europe, Africa and Asia with land shaded from blue to deep orange, outlined by coastlines." loading="lazy"><img class="dark-content" src="images/research_03-dark.webp" alt="Global map of Europe, Africa and Asia with land shaded from blue to deep orange, outlined by coastlines." loading="lazy"></figure>
+:::
+
+::: {.theme .has-photo}
+<div class="num">04</div>
+<div>
+### Novel instrumentation
+
+I develop best-practices for elemental analyzer isotope ratio mass spectrometry (EA-IRMS) and am constructing new tools for environmental monitoring, including in-situ underwater quadropole mass spectrometers.
+
+<div class="chips"><span class="chip">EA-IRMS</span><span class="chip">benthic flux chambers</span><span class="chip">instrumentation</span></div>
+</div>
+<figure class="theme-photo" style="--shift: 14%"><img src="images/research_04.jpg" alt="Close-up of a mass spectrometer ion source on a lab bench: a steel housing ringed by ceramic rods and gold-plated screws." loading="lazy"></figure>
+:::
+
+:::
+
+## Funding
+
+{{< logos images/funding >}}

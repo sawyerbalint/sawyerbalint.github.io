@@ -1,0 +1,11 @@
+---
+title: "Curriculum Vitae"
+description: "View or download my full CV."
+---
+
+<div class="cv-actions">
+<a class="primary" href="files/cv.pdf" download><i class="bi bi-download"></i> Download PDF</a>
+<a href="files/cv.pdf"><i class="bi bi-box-arrow-up-right"></i> Open in new tab</a>
+</div>
+
+<iframe class="cv-frame" src="files/cv.pdf#view=FitH" title="Sawyer Balint CV"></iframe>

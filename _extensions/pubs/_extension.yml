@@ -1,0 +1,7 @@
+title: pubs
+author: Sawyer Balint
+version: 1.0.0
+contributes:
+  shortcodes:
+    - pubs.lua
+    - logos.lua
