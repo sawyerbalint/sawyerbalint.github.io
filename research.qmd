@@ -36,7 +36,7 @@ I pair precipitation-explicit nitrogen loading budgets with global climate model
 <div>
 ### Nitrogen fixation and biogenic gases
 
-In collaboration with the [Aquatic Nitrogen Fixation Research Coordination Network](https://www.aquaticnfixation.com), I help synthesize nitrogen fixation rates across inland and coastal waters and estimate their temporal and spatial distribution. I also measure biogenic gas fluxes across the sediment-water interface and have collaborated with greenhouse gas measurements in salt marshes.
+In collaboration with the [Aquatic Nitrogen Fixation Research Coordination Network](https://www.aquaticnfixation.com), I help synthesize global aquatic nitrogen fixation ratesand estimate their temporal and spatial distribution. I also measure biogenic gas fluxes across the sediment-water interface and have collaborated with greenhouse gas measurements in salt marshes.
 
 <div class="chips"><span class="chip">N₂ fixation</span><span class="chip">methane</span><span class="chip">global synthesis</span></div>
 </div>
