@@ -13,7 +13,7 @@ title-block-banner: false
 <div>
 <p class="hero-name" role="heading" aria-level="1">Sawyer Balint</p>
 <p class="role">Ph.D. Candidate · NSF GRFP Fellow · <strong>Earth &amp; Environment, Boston University</strong></p>
-<p class="tagline">I study how human activity has changed estuarine biogeochemistry, past and present, and build analytical tools that make estuarine research more accessible.</p>
+<p class="tagline">I study how human activity has changed estuarine biogeochemistry and build analytical tools that make estuarine research more accessible.</p>
 <div class="hero-links">
 <a class="primary" href="publications.qmd"><i class="bi bi-journal-text"></i> Publications</a>
 <a href="cv.qmd"><i class="bi bi-file-earmark-person"></i> CV</a>
@@ -40,7 +40,7 @@ title-block-banner: false
 
 I am a Ph.D. Candidate in the [Fulweiler Lab](https://www.fulweilerlab.com) at Boston University, advised by Robinson W. Fulweiler, and an [NSF Graduate Research Fellow](https://www.nsfgrfp.org). I study past, present, and future changes in estuarine biogeochemistry caused by human activity. My current work uses regional and global modeling and mass spectrometry to reconstruct historical nutrient loading in urbanized estuaries and to project how nutrient cycling in these systems will respond to management and climate change.
 
-Much of my work focuses on how we collect, interpret, and share the measurements themselves: how isotope data is normalized on mass spectrometers, how new in-situ instrumentation can expand the spatiotemporal resolution of benthic gas fluxes, and how to make data more accessible and reproducible. Code and data for my papers are openly available.
+Much of my work focuses on how we collect, interpret, and share the measurements themselves: how mass spectrometers are calibrated, how new in-situ instrumentation can expand the spatiotemporal resolution of benthic gas fluxes, and how to make data more accessible and reproducible. Code and data for my papers are openly available.
 
 Before BU, I was an ORISE Fellow at the U.S. EPA Atlantic Coastal Environmental Sciences Division in Narragansett, RI, where I used stable isotopes and sediment cores to study estuarine nitrogen cycling. I earned my bachelor's from Brown University, where my thesis quantified atmospheric nitrogen deposition to Narragansett Bay.
 

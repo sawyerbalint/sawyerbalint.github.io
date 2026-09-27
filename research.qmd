@@ -8,7 +8,6 @@ I study past and present changes in estuarine biogeochemistry caused by human ac
 ::: {.themes}
 
 ::: {.theme .has-photo}
-<div class="num">01</div>
 <div>
 ### Historical nutrient reconstruction
 
@@ -20,11 +19,10 @@ By combining stable isotopes, radiometric dating, and historical ecology, I use 
 :::
 
 ::: {.theme .has-photo}
-<div class="num">02</div>
 <div>
 ### Ecosystem management
 
-I pair precipitation-explicit nitrogen loading budgets with global climate models to assess how precipitation variability may impact ecosystem management, and use spectral and wavelet analysis of multi-decade monitoring data to interrogate the ecological impacts of management and climate change
+I pair precipitation-explicit nitrogen loading budgets with global climate models to assess how precipitation variability may impact ecosystem management, and use spectral and wavelet analysis of multi-decade monitoring data to interrogate the ecological impacts of management and climate change.
 
 <div class="chips"><span class="chip">net ecosystem metabolism</span><span class="chip">wavelet decomposition</span><span class="chip">nutrient reductions</span><span class="chip">climate change</span></div>
 </div>
@@ -32,11 +30,10 @@ I pair precipitation-explicit nitrogen loading budgets with global climate model
 :::
 
 ::: {.theme .has-photo}
-<div class="num">03</div>
 <div>
 ### Nitrogen fixation and biogenic gases
 
-In collaboration with the [Aquatic Nitrogen Fixation Research Coordination Network](https://www.aquaticnfixation.com), I help synthesize global aquatic nitrogen fixation ratesand estimate their temporal and spatial distribution. I also measure biogenic gas fluxes across the sediment-water interface and have collaborated with greenhouse gas measurements in salt marshes.
+In collaboration with the [Aquatic Nitrogen Fixation Research Coordination Network](https://www.aquaticnfixation.com), I help synthesize global aquatic nitrogen fixation rates and estimate their temporal and spatial distribution. I also measure biogenic gas fluxes across the sediment-water interface and have collaborated with greenhouse gas measurements in salt marshes.
 
 <div class="chips"><span class="chip">N₂ fixation</span><span class="chip">methane</span><span class="chip">global synthesis</span></div>
 </div>
@@ -44,7 +41,6 @@ In collaboration with the [Aquatic Nitrogen Fixation Research Coordination Netwo
 :::
 
 ::: {.theme .has-photo}
-<div class="num">04</div>
 <div>
 ### Novel instrumentation
 
@@ -57,6 +53,10 @@ I develop best-practices for elemental analyzer isotope ratio mass spectrometry 
 
 :::
 
+<!-- Funding section: hidden for now. To restore it, delete this comment wrapper
+     and change {{</* logos images/funding */>}} back to the normal shortcode form (remove the two asterisks and slashes).
+
 ## Funding
 
-{{< logos images/funding >}}
+{{</* logos images/funding */>}}
+-->
